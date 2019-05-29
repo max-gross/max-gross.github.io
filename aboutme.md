@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Max Gross
-subtitle: PhD Candidate in Economics, University of Michigan
-bigimg: /img/biscuits.jpg
+bigimg: 
+  - "/img/biscuits.jpg" : "Nashville, TN (2019)"
 ---
 
 XYZ is why I am interested in this work.  
