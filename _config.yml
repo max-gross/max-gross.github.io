@@ -16,8 +16,8 @@ baseurl: ""
 # Name of website
 title: Max Gross
 
-# Short description of your site - this adds text to when you hover over the website in a tab
- description: 
+# Short description of your site, this adds text to when you hover over the website in a tab
+# description: 
 
 # --- Navigation bar options --- #
 
