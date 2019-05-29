@@ -4,13 +4,8 @@ title: Max Gross
 subtitle: PhD Candidate in Economics, University of Michigan
 ---
 
-My name is Max Gross. I have the following qualities:
+I am a PhD candidate in economics at the University of Michigan and an Institute of Education Sciences predoctoral fellow. I study the economics of education, labor economics, and public policy.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My research uses large administrative data sources from the education, child welfare, and criminal justice systems to evaluate government policies and programs. I seek to understand how our institutions can better care for historically underserved students. 
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
