@@ -2,6 +2,7 @@
 layout: page
 title: Max Gross
 subtitle: PhD Candidate in Economics, University of Michigan
+bigimg: /img/biscuits.jpg
 ---
 
 XYZ is why I am interested in this work.  
