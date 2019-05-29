@@ -23,7 +23,7 @@ description: Economics PhD Candidate
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv"
+  CV: "https://max-gross.github.io/website_documents/maxgross_cv.pdf"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
