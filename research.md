@@ -4,7 +4,11 @@ title: Max Gross
 subtitle: Research
 ---
 
+##Job Market Paper
+
 Foster Care  
+
+##Working Papers
 
 Course Shutouts  
 
@@ -24,4 +28,10 @@ and 85%. Youth with the weakest academic skills benefited the most, as participa
 increased school enrollment by 2.2% and high school graduation by 5.5% for this group.
 Falsification tests of whether participation predicts pre-program characteristics as well
 as bounding exercises to account for omitted variables offer support that our results represent true effects of the program and not selection.
+*[Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf)
+*Press Coverage: XYZ, XYZ
+
+##Publications
+
+Child Maltreatment: 
 
