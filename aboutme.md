@@ -3,10 +3,7 @@ layout: page
 bigimg: 
   - "/img/biscuits.jpg" : "Nashville, TN (2019)"
   - "/img/backpacking_view.jpg" : "Mineral King, CA (2018)"
-  - "/img/backpacking_pepper.jpg" : "Mineral King, CA (2018)"
   - "/img/mx_pepper.jpg" : "Puerto Vallarta, MX (2017)"
-
-
 ---
 
 XYZ is why I am interested in this work.  
