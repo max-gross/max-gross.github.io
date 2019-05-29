@@ -33,7 +33,8 @@ as bounding exercises to account for omitted variables offer support that our re
 
 ## Publications
 
-[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson) **Child Maltreatment.** July 2018.  
+[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson)  
+**Child Maltreatment.** July 2018.  
 
 Early childhood trauma increases the risk of academic difficulties. The purpose of this study was to investigate the prevalence of
 early contact with child protection services (CPS) and to determine whether early exposure to maltreatment investigations was
