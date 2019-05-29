@@ -12,7 +12,7 @@ Foster Care
 
 Course Shutouts  
 
-[**Summer Youth Employment**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf): 
+[**Summer Youth Employment**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett): 
 Summer youth employment programs are a popular way for municipalities to provide
 adolescents with skills and experiences thought to improve labor market outcomes.
 While research evidence on such programs has grown in recent years, it is still limited.
@@ -33,7 +33,7 @@ as bounding exercises to account for omitted variables offer support that our re
 
 ## Publications
 
-[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf): 
+[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson): 
 Early childhood trauma increases the risk of academic difficulties. The purpose of this study was to investigate the prevalence of
 early contact with child protection services (CPS) and to determine whether early exposure to maltreatment investigations was
 associated with important academic outcomes. The authors focused specifically on standardized test scores (math and reading),
