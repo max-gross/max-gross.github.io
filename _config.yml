@@ -23,6 +23,7 @@ description: Economics PhD Candidate
 
 # List of links in the navigation bar
 navbar-links:
+  CV: "cv"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
