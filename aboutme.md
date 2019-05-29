@@ -1,5 +1,6 @@
 ---
 layout: page
+show-avatar: false
 bigimg: 
   - "/img/biscuits.jpg" : "Nashville, TN (2019)"
   - "/img/backpacking_view.jpg" : "Mineral King, CA (2018)"
