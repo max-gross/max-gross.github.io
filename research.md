@@ -12,7 +12,9 @@ The Causal Effects of Foster Care on Child Outcomes
 
 The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
 
-[**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett)  
+[**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
+
+![Employed Youth]("/img/gdyt.jpg")
 
 Summer youth employment programs are a popular way for municipalities to provide
 adolescents with skills and experiences thought to improve labor market outcomes.
