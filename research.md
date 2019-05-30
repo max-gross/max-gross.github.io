@@ -15,9 +15,11 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
 <div style="width: 1000px;">
-  <div style="float: left; width: 400px;">
-   <img src="/img/gdyt.jpg" width="292" height="200"> 
+<div style="float: left; width: 250px;">
+<div style="float: left; width: 500px;">
+   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
   </div>
+<div style="float: left; width: 250px;">
   <br style="clear: left;" />
 </div>
 
@@ -38,13 +40,6 @@ Falsification tests of whether participation predicts pre-program characteristic
 as bounding exercises to account for omitted variables offer support that our results represent true effects of the program and not selection.
 * [Public Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf)
 * Press Coverage: [CBS Detroit](https://detroit.cbslocal.com/2018/04/11/youth-in-detroit-summer-jobs-program-gain-more-than-a-paycheck/), [Crain's Detroit Business](https://www.crainsdetroit.com/article/20180411/news/657856/um-study-detroit-youth-jobs-program-shows-educational-benefits), [Michigan Radio NPR](https://www.michiganradio.org/post/detroit-youth-summer-jobs-program-boosts-graduation-rates-lowers-absences)
-
-<div style="width: 1000px;">
-<div style="float: left; width: 500px;">
-   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
-  </div>
-  <br style="clear: left;" />
-</div>
 
 ## Publications
 
