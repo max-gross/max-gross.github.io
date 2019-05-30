@@ -14,7 +14,8 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
-<img src="img/gdyt.jpg"  width="292" height="200"> <img src="img/fig_summer_employment.png"  width="426" height="200">
+<div style="text-align:center"><img src="img/gdyt.jpg"  width="292" height="200"></div> <img src="img/fig_summer_employment.png"  width="426" height="200">
+
 
 
 Summer youth employment programs are a popular way for municipalities to provide
