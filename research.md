@@ -8,9 +8,9 @@ subtitle: PhD Candidate in Economics
 
 The Causal Effects of Foster Care on Child Outcomes  
 
- Tables | Cool 
+  |  
  :---: | :---:
- |
+ Tables | Cool
 
 ## Working Papers
 
