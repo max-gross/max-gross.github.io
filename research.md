@@ -4,7 +4,7 @@ title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
 
-hh
+aa
 
 ## Job Market Paper
 
@@ -18,9 +18,19 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
  ![](/img/gdyt.jpg?s=200) ![](/img/fig_summer_employment.png?s=200)
 
+<img src="/img/gdyt.jpg" width="292" height="200">         <img src="/img/fig_summer_employment.png" width="426" height="200"> 
 
- <img src="/img/gdyt.jpg" width="292" height="200"> <img src="/img/fig_summer_employment.png" width="426" height="200"> 
 
+<div style="width: 1200px;">
+  <div style="float: left; width: 400px;">
+   <img src="/img/gdyt.jpg" width="292" height="200"> 
+  </div>
+ <div style="float: left; width: 200px;"> </div>
+  <div style="float: left; width: 600px;">
+   <img src="/img/fig_summer_employment.png" width="426" height="200"> 
+  </div>
+  <br style="clear: left;" />
+</div>
 
 Summer youth employment programs are a popular way for municipalities to provide
 adolescents with skills and experiences thought to improve labor market outcomes.
