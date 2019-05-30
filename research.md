@@ -4,7 +4,7 @@ title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
 
-ff
+gg
 
 ## Job Market Paper
 
@@ -16,7 +16,7 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
- ![](/img/gdyt.jpg){:height="200px" width="292px"} ![](/img/fig_summer_employment.png?){:height="200px" width="496px"}
+ ![](/img/gdyt.jpg?s=200) ![](/img/fig_summer_employment.png?s=200)
 
 
  <img src="img/gdyt.jpg" width="292" height="200">  <img src="img/fig_summer_employment.png" width="426" height="200"> 
