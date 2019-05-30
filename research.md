@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Max Gross
-subtitle: Research
+subtitle: PhD Candidate in Economics
 ---
 
 ## Job Market Paper
 
 The Causal Effects of Foster Care on Child Outcomes  
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| | | |
+ Tables | Cool 
+ :---: | :---:
+ |
 
 ## Working Papers
 
