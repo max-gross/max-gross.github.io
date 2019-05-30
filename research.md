@@ -37,16 +37,5 @@ as bounding exercises to account for omitted variables offer support that our re
 [**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson)  
 **Child Maltreatment.** July 2018.  
 
-Early childhood trauma increases the risk of academic difficulties. The purpose of this study was to investigate the prevalence of
-early contact with child protection services (CPS) and to determine whether early exposure to maltreatment investigations was
-associated with important academic outcomes. The authors focused specifically on standardized test scores (math and reading),
-grade retention, and special education status in third grade. The sample was diverse and included all children born between 2000
-and 2006 and enrolled in Michigan’s public schools (N= 732,838). By the time these students reached third grade, approximately
-18% were associated with a formal CPS investigation. In some school districts, more than 50% of third graders were associated
-with an investigation. African American and poor students were more likely to be investigated for maltreatment. Children
-associated with maltreatment investigations scored significantly lower on standardized math and reading tests, were more
-likely to be identified as needing special education, and were more likely to be held back at least one grade. These findings
-indicate that involvement with CPS is not an infrequent event in the lives of young children and that within some school districts,
-maltreatment investigations are the norm. Child welfare and educational systems must collaborate so that the early academic
-struggles experienced by victims of maltreatment do not mature into more complicated difficulties later in life.
+This study investigates the prevalence of early contact with child protection services (CPS) and determines whether early exposure to maltreatment investigations is associated with academic outcomes. Using administrative data from Michigan of over 700,000 children across seven birth cohorts, we find that 18% of students were the subject of a formal CPS investigation between birth and the third grade. In some school districts, more than 50% of third graders were the subject of an investigation. African American and poor students were more likely to be investigated for maltreatment than other groups. Children associated with maltreatment investigations scored significantly lower on standardized math and reading tests, were more likely to be identified as needing special education, and were more likely to be held back at least one grade. These findings indicate that involvement with CPS is not an infrequent event in the lives of young children and that within some school districts, maltreatment investigations are the norm. Child welfare and educational systems must collaborate so that the early academic struggles experienced by victims of maltreatment do not mature into more complicated difficulties later in life.
 
