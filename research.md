@@ -19,7 +19,7 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
  ![](img/gdyt.jpg) ![](img/fig_summer_employment.png)
 
 
- <img src="img/gdyt.jpg" width="292" height="200">  <img src="img/fig_summer_employment.png" width="426" height="200"> 
+ <img src=img/gdyt.jpg width="292" height="200">  <img src=img/fig_summer_employment.png width="426" height="200"> 
 
 
 Summer youth employment programs are a popular way for municipalities to provide
