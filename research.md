@@ -10,7 +10,7 @@ The Causal Effects of Foster Care on Child Outcomes
 
 ## Working Papers
 
-The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  
+The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett)  
 
