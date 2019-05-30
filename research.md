@@ -8,6 +8,9 @@ subtitle: Research
 
 The Causal Effects of Foster Care on Child Outcomes  
 
+Table1 | Table2
+:---: | :---:
+
 ## Working Papers
 
 The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
