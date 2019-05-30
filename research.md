@@ -14,13 +14,13 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
-<div style="width: 1200px;">
-  <div style="float: left; width: 400px;">
+<div style="width: 900px;">
+  <div style="float: left; width: 300px;">
    <img src="/img/gdyt.jpg" width="292" height="200"> 
   </div>
- <div style="float: left; width: 200px;"> </div>
-  <div style="float: left; width: 600px;">
-   <img src="/img/fig_summer_employment.png" width="426" height="200"> 
+ <div style="float: left; width: 50px;"> </div>
+  <div style="float: left; width: 500px;">
+   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
   </div>
   <br style="clear: left;" />
 </div>
