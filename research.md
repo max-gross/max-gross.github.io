@@ -8,8 +8,8 @@ subtitle: Research
 
 The Causal Effects of Foster Care on Child Outcomes  
 
-Table1 | Table2
-:---: | :---:
+ Table1 | Table2
+ :---: | :---:
 
 ## Working Papers
 
