@@ -4,6 +4,13 @@ title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
 
+<div style="width: 100%;">
+<div style="float: left; style=margin: 0 auto;">
+   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
+  </div>
+  <br style="clear: left;" />
+</div>
+
 ## Job Market Paper
 
 The Causal Effects of Foster Care on Child Outcomes  
