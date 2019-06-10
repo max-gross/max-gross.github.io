@@ -5,10 +5,10 @@ subtitle: PhD Candidate in Economics
 ---
 
 <div style="width: 100%;">
-<div style="float: left; style=margin: 0 auto;">
+<div style="float: center; style=margin: 0 auto;">
    <img src="/img/fig_summer_employment.png" width="400" height="200"> 
   </div>
-  <br style="clear: left;" />
+  <br style="clear: center;" />
 </div>
 
 ## Job Market Paper
