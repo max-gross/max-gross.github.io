@@ -3,8 +3,13 @@ layout: page
 title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
-aa
-<img src="/img/fig_summer_employment.png" align="middle">
+
+bb
+<div style="width: 100%;">
+<div style="style=margin: 0 auto;">
+   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
+  </div>
+</div>
 
 ## Job Market Paper
 
