@@ -4,12 +4,17 @@ title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
 
-bb
-<div style="width: 100%;">
-<div style="style=margin: 0 auto;">
-   <img src="/img/fig_summer_employment.png" width="400" height="200"> 
-  </div>
-</div>
+cc
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/fig_summer_employment.png" style="width:40%"> 
+
 
 ## Job Market Paper
 
