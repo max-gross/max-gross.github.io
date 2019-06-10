@@ -3,7 +3,6 @@ layout: page
 title: Max Gross
 subtitle: PhD Candidate in Economics
 ---
-aa
 
 ## Job Market Paper
 
