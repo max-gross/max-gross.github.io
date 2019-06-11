@@ -26,8 +26,8 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
-<!-- Keep the height at 200 for all figures and scale the width proportionally --> 
-<img src="/img/fig_summer_employment.png" width="379" height="200"> 
+<!-- Keep the height at 400 for all figures and scale the width proportionally --> 
+<img src="/img/fig_summer_employment.png" width="758" height="400"> 
 
 Summer youth employment programs are a popular way for municipalities to provide
 adolescents with skills and experiences thought to improve labor market outcomes.
@@ -52,7 +52,7 @@ as bounding exercises to account for omitted variables offer support that our re
 [**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson)  
 **Child Maltreatment.** July 2018.  
 
-<img src="/img/fig_child_maltreatment1.jpg" width="400" height="200"> 
+<img src="/img/fig_child_maltreatment1.jpg" width="800" height="400"> 
 
 We investigate the prevalence of early contact with child protection services (CPS) and determine whether early exposure to maltreatment investigations is associated with academic outcomes. Using administrative data from Michigan of over 700,000 children across seven birth cohorts, we find that 18% of students were the subject of a formal CPS investigation between birth and the third grade. In some school districts, more than 50% of third graders were the subject of an investigation. African American and poor students were more likely to be investigated for maltreatment than other groups. Children associated with maltreatment investigations scored significantly lower on standardized math and reading tests, were more likely to be identified as needing special education, and were more likely to be held back at least one grade. These findings indicate that involvement with CPS is not an infrequent event in the lives of young children and that within some school districts, maltreatment investigations are the norm. Child welfare and educational systems must collaborate so that the early academic struggles experienced by victims of maltreatment do not mature into more complicated difficulties later in life.
 
