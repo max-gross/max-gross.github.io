@@ -12,29 +12,6 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
 </style>
 
 ## Job Market Paper
@@ -54,10 +31,11 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
   </div>
 </div>
 
-<button class="accordion">Accordian Abstract</button>
-<div class="panel">
-  This is some text.
+<div data-collapse="accordion persist">
+<p><a href="#">Section Heading or Question (click me)</a></p>
+<div>Section Text or Answer</div>
 </div>
+
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
