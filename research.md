@@ -24,15 +24,10 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
 
 <img src="/img/fig_deanza.png" width="525" height="350"> 
 
-<div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Abstract</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        this is some text.
-      </p>
-    </div>
+<div class="container">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Abstract</button>
+  <div id="demo" class="collapse">
+    This is some text.
   </div>
 </div>
 
