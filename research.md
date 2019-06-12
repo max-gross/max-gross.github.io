@@ -22,26 +22,22 @@ The Causal Effects of Foster Care on Child Outcomes
 
 The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
 
-<img src="/img/fig_deanza.png" width="525" height="350"> 
-
 <div class="container">
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Collapsible Abstract</button>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Abstract</button>
   <div id="demo" class="collapse">
-    This is some text.
+    Put the abstract text here
   </div>
 </div>
 
-<div data-collapse="accordion persist">
-<p><a href="#">Section Heading or Question (click me)</a></p>
-<div>Section Text or Answer</div>
-</div>
+<img src="/img/fig_deanza.png" width="525" height="350"> 
 
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
-<img src="/img/fig_summer_employment.png" width="474" height="250">
-
-Summer youth employment programs are a popular way for municipalities to provide
+<div class="container">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Abstract</button>
+  <div id="demo" class="collapse">
+    Summer youth employment programs are a popular way for municipalities to provide
 adolescents with skills and experiences thought to improve labor market outcomes.
 While research evidence on such programs has grown in recent years, it is still limited.
 In particular, it is not clear how, if at all, participation influences key educational
@@ -56,6 +52,11 @@ and 85%. Youth with the weakest academic skills benefited the most, as participa
 increased school enrollment by 2.2% and high school graduation by 5.5% for this group.
 Falsification tests of whether participation predicts pre-program characteristics as well
 as bounding exercises to account for omitted variables offer support that our results represent true effects of the program and not selection.
+  </div>
+</div>
+
+<img src="/img/fig_summer_employment.png" width="474" height="250">
+
 * [Public Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf)
 * Press Coverage: [CBS Detroit](https://detroit.cbslocal.com/2018/04/11/youth-in-detroit-summer-jobs-program-gain-more-than-a-paycheck/), [Crain's Detroit Business](https://www.crainsdetroit.com/article/20180411/news/657856/um-study-detroit-youth-jobs-program-shows-educational-benefits), [Michigan Radio NPR](https://www.michiganradio.org/post/detroit-youth-summer-jobs-program-boosts-graduation-rates-lowers-absences)
 
