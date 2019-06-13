@@ -31,10 +31,10 @@ The Effect of Course Shutouts on Community College Students: Evidence from Waitl
   </div>
 </div>
 
-<details>
-  <summary>Abstract</summary>
-  This is some abstract text
-</details>
+<details><summary>Abstract</summary> This is some abstract text</details>
+<details><summary>Abstract1</summary></details>
+
+
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
