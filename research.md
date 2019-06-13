@@ -21,7 +21,7 @@ ul {
 
 ## Job Market Paper
 
-The Causal Effects of Foster Care on Child Outcomes  
+The Causal Effects of Foster Care on Child Outcomes (draft available Fall 2019)
 
 ## Working Papers
 
