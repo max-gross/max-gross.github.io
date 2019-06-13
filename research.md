@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Max Gross
-subtitle: PhD Candidate in Economics
+subtitle: Ph.D. Candidate in Economics
 ---
 
 <!-- CSS code to center images below --> 
