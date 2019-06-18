@@ -46,7 +46,7 @@ Summer youth employment programs are a popular way for municipalities to provide
 
 <img src="/img/fig_child_maltreatment1.jpg" width="500" height="250"> 
 
-<details><summary style="color: #008AFE"">     Abstract</summary> 
+<details><summary style="color: #008AFE">     Abstract</summary> 
 We investigate the prevalence of early contact with child protection services (CPS) and determine whether early exposure to maltreatment investigations is associated with academic outcomes. Using administrative data from Michigan of over 700,000 children across seven birth cohorts, we find that 18% of students were the subject of a formal CPS investigation between birth and the third grade. In some school districts, more than 50% of third graders were the subject of an investigation. African American and poor students were more likely to be investigated for maltreatment than other groups. Children associated with maltreatment investigations scored significantly lower on standardized math and reading tests, were more likely to be identified as needing special education, and were more likely to be held back at least one grade. These findings indicate that involvement with CPS is not an infrequent event in the lives of young children and that within some school districts, maltreatment investigations are the norm. Child welfare and educational systems must collaborate so that the early academic struggles experienced by victims of maltreatment do not mature into more complicated difficulties later in life.
 </details>
 
