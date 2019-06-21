@@ -25,9 +25,13 @@ The Causal Effects of Foster Care on Child Outcomes (draft available Fall 2019)
 
 ## Working Papers
 
-The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs  (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
+**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles, Robert Fairlie, and Thomas Barrios) 
 
 <img src="/img/fig_deanza.png" width="525" height="350"> 
+
+<details><summary style="color: #008AFE">     Abstract</summary> 
+State funding for higher education has dramatically declined over the past decade. One frequently cited yet understudied channel through which money matters for college students is course availability- colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies and heavy reliance on state funding may make this channel especially salient at community colleges, which enroll 36% of all U.S. undergraduates and 43% of underrepresented minority students. We use administrative course registration data from a large community college in California to test this mechanism. By exploiting discontinuities in course admissions created by waitlists, we find that students stuck on a waitlist and shut out of a course section were 25% more likely to take zero courses that term, relative to a baseline of 10%. Shutouts also increased transfer rates. Some students transferred to nearby two-year schools while others transferred to four-year colleges, thus accelerating their time to a bachelor's degree. These results document that course availability, even through a relatively small friction, can interrupt and distort community college students' educational trajectories.
+</details>
 
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett) 
 
