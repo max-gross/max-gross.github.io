@@ -28,7 +28,7 @@ The Causal Effects of Foster Care on Child Outcomes (draft available Fall 2019)
 [**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles, Robert W. Fairlie, and Thomas Barrios). 
 **Under Review.**
 
-<img src="/img/fig_deanza_compliers.png" width="525" height="350"> 
+<img src="/img/fig_deanza_compliers1.png" width="525" height="350"> 
 
 <details><summary style="color: #008AFE">     Abstract</summary> 
 One frequently cited yet understudied channel through which money matters for college students is course availability- colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies, binding class size constraints, and heavy
