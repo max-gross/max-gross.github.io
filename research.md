@@ -21,7 +21,11 @@ ul {
 
 ## Job Market Paper
 
-The Causal Effects of Foster Care on Child Outcomes (draft available Fall 2019)
+Temporary Stays and Persistent Gains: The Causal Effects of Foster Care (draft available Oct 2019)
+
+<details><summary style="color: #008AFE">     Abstract</summary> 
+About 250,000 children are removed from their homes and placed in foster care every year in the United States. In this paper, I exploit the quasi-random assignment of child welfare investigators to study its impacts. Using Michigan administrative data, I find that foster care caused large gains in child safety and schooling. It reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. The gains persist for several years after removal, even after most children reunified with their birth parents. As new federal legislation allows states to redirect up to $8 billion from foster care toward in-home child protective services, these findings underscore the need to better care for maltreated children who remain at home.
+</details>
 
 ## Working Papers
 
