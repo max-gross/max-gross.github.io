@@ -52,7 +52,7 @@ Summer youth employment programs are a popular way for municipalities to provide
 * [Public Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf)
 * Press Coverage: [CBS Detroit](https://detroit.cbslocal.com/2018/04/11/youth-in-detroit-summer-jobs-program-gain-more-than-a-paycheck/), [Crain's Detroit Business](https://www.crainsdetroit.com/article/20180411/news/657856/um-study-detroit-youth-jobs-program-shows-educational-benefits), [Michigan Radio NPR](https://www.michiganradio.org/post/detroit-youth-summer-jobs-program-boosts-graduation-rates-lowers-absences)
 
-## Publications
+## Peer-Reviewed Publications
 
 [**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson).  
 **Child Maltreatment** 23(4), Nov 2018.  
