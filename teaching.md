@@ -13,13 +13,13 @@ Teaching Assistant for Principles of Economics I
 * Full teaching evaluations available [here](https://max-gross.github.io/website_documents/max_gross_teaching_evaluations.pdf)
 
 Selected Comments:
+* "Max did an amazing job explaining all the concepts and **providing relevant examples** to accompany the topics"
 * "Definitely best teaching assistant I have had"
-* "Max did an amazing job explaining all the concepts and providing relevant examples to accompany the topics"
-* "Enthusiasm was quite palpable, which made coming to discussion enjoyable"
-* "He connected with the class very well and created a comfortable atmosphere in the classroom which made it easier for anyone to ask a question"
+* "**Enthusiasm was quite palpable**, which made coming to discussion enjoyable"
 * "Max made a course that I otherwise disliked (solely due to its difficulty) very enjoyable"
 * "Very good at answering questions, extremely knowledgable of the material which allowed him to be effective at explaining problems"
 * "Max was a great teaching assistant, I feel very lucky to have had him as my instructor"
+* "He connected with the class very well and created a **comfortable atmosphere in the classroom** which made it easier for anyone to ask a question"
 
 
 
