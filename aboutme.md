@@ -7,7 +7,7 @@ bigimg:
   - "/img/mx_pepper.jpg" : "Puerto Vallarta, MX (2017)"
 ---
 
-Originally from the Philadelphia area, I graduated from the University of Maryland in 2014 with a Bachelor of Science in mathematics and a Bachelor of Arts in economics. I continued studying economics at the University of Michigan the following fall and earned a masters degree in 2015. I will complete my Ph.D. in April 2020.
+Originally from the Philadelphia area, I graduated from the University of Maryland in 2014 with a Bachelor of Science in mathematics and a Bachelor of Arts in economics. I continued studying economics at the University of Michigan the following fall and will complete my Ph.D. in April 2020.
 
 I am an applied microeconomist whose research is motivated by improving the lives of historically underserved children. With a focus on the economics of education and labor economics, I use large administrative data and quasi-experimental methods to engage with public policy. I am happy to be affiliated with the [Education Policy Initiative](http://www.edpolicy.umich.edu/) at the University of Michigan.
 
