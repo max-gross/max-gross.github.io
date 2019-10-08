@@ -14,10 +14,10 @@ Teaching Assistant for Principles of Economics I, University of Michigan
 * Selected comments
   * "Amazing job explaining all the concepts and providing relevant examples"
   * "Definitely best teaching assistant I have had"
-  * "**Enthusiasm was quite palpable**, which made coming to discussion enjoyable"
+  * "Enthusiasm was quite palpable, which made coming to discussion enjoyable"
   * "Very good at answering questions"
   * "I feel very lucky to have had him as my instructor"
-  * "Created a **comfortable atmosphere in the classroom** which made it easier for anyone to ask a question"
+  * "Created a comfortable atmosphere in the classroom which made it easier for anyone to ask a question"
 
 Teaching Assistant for Developmental Mathematics, University of Maryland
 * Fall 2012
