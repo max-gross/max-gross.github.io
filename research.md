@@ -33,10 +33,9 @@ ul {
 NBER Working Paper #26376.
 
 <details><summary style="color: #008AFE">     Abstract</summary> 
-<em>One frequently cited yet understudied channel through which money matters for college students is course availability- colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies, binding class size constraints, and heavy
-reliance on state funding may make this channel especially salient at community colleges, which enroll 47% of U.S. undergraduates in public colleges and 55% of underrepresented minority students. We use administrative course registration data from a large community
+<em>One frequently cited yet understudied channel through which money matters for college students is course availability--colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies, binding class size constraints, and heavy reliance on state funding may make this channel especially salient at community colleges, which enroll 47% of U.S. undergraduates in public colleges and 55% of underrepresented minority students. We use administrative course registration data from a large community
 college in California to test this mechanism. By exploiting discontinuities in course admissions created by waitlists, we find that students stuck on a waitlist and shut out of a course section were 25% more likely to take zero courses that term relative to
-a baseline of 10%. Shutouts also increased transfer rates to nearby, but potentially lower quality, two-year colleges. These results document that course availability- even through a relatively small friction- can interrupt and distort community college students' educational trajectories.</em>
+a baseline of 10%. Shutouts also increased transfer rates to nearby, but potentially lower quality, two-year colleges. These results document that course availability--even through a relatively small friction--can interrupt and distort community college students' educational trajectories.</em>
 </details>
 
 <img src="/img/fig_deanza_compliers1.png" width="525" height="350"> 
