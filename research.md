@@ -29,7 +29,7 @@ ul {
 
 ## Working Papers
 
-[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles, Robert W. Fairlie, and Thomas Barrios). 
+[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles and Robert W. Fairlie). 
 NBER Working Paper #26376.
 
 <details><summary style="color: #008AFE">     Abstract</summary> 
