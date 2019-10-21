@@ -21,10 +21,10 @@ ul {
 
 ## Job Market Paper
 
-Temporary Stays and Persistent Gains: The Causal Effects of Foster Care (draft available soon!)
+[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/max_gross_jmp_foster_care.pdf
 
 <details><summary style="color: #008AFE">     Abstract</summary> 
-<em>About 250,000 children are removed from their homes and placed in foster care every year in the United States. In this paper, I exploit the quasi-random assignment of child welfare investigators to study its impacts. Using Michigan administrative data, I find that foster care caused large gains in child safety and schooling. It reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. The gains persist for several years after removal, even after most children were reunified with their birth parents. As new federal legislation allows states to redirect up to $8 billion from foster care toward in-home services, these findings underscore the need to better care for maltreated children who remain at home.</em>
+<em>6% of children in the United States enter the foster system between birth and age eighteen. Using administrative data from Michigan, I estimate the effects of foster care on children's outcomes by exploiting the quasi-random assignment of child welfare investigators. I find that foster care reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. Gains in safety and academics emerged after children exited the system when most were reunified with their birth parents, suggesting that improvements made by birth parents was an important mechanism. I discuss implications for policy in light of the Family First Prevention Services Act of 2019, which allocates billions of federal dollars toward reducing foster placements.</em>
 </details>
 
 ## Working Papers
