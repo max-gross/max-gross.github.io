@@ -30,7 +30,7 @@ ul {
 ## Working Papers
 
 [**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles, Robert W. Fairlie, and Thomas Barrios). 
-**Under Review.**
+NBER Working Paper #26376.
 
 <details><summary style="color: #008AFE">     Abstract</summary> 
 <em>One frequently cited yet understudied channel through which money matters for college students is course availability- colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies, binding class size constraints, and heavy
