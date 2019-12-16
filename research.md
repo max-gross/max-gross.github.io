@@ -27,7 +27,7 @@ ul {
 <em>6% of children in the United States enter the foster system between birth and age eighteen. Using administrative data from Michigan, I estimate the effects of foster care on children's outcomes by exploiting the quasi-random assignment of child welfare investigators. I find that foster care reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. Gains in safety and academics emerged after children exited the system when most were reunified with their birth parents, suggesting that improvements made by birth parents was an important mechanism. I discuss implications for policy in light of the Family First Prevention Services Act of 2019, which allocates billions of federal dollars toward reducing foster placements.</em>
 </details>
 
-<img src="/img/fig_fc.png" width="700" height="350"> 
+<img src="/img/fig_fc_preview.png" width="700" height="350"> 
 
 
 ## Working Papers
