@@ -24,7 +24,7 @@ description: Ph.D. Candidate in Economics
 # List of links in the navigation bar
 navbar-links:
   Home: "https://max-gross.github.io/"
-  Research: "research2"
+  Research: "research"
   CV: "https://max-gross.github.io/website_documents/max_gross_cv.pdf" 
   Resume: "https://max-gross.github.io/website_documents/max_gross_resume.pdf" 
   About Me: "aboutme"
