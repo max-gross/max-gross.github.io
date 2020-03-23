@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Max Gross
-subtitle: Ph.D. Candidate in Economics
+subtitle: Economics Ph.D.
 ---
 
 ### Peer-Reviewed Publications
