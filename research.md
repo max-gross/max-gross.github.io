@@ -6,7 +6,7 @@ subtitle: Ph.D. in Economics
 
 ### Peer-Reviewed Publications
 
-[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) (with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson).  
+[**Early Exposure to Child Maltreatment and Academic Outcomes**](https://max-gross.github.io/website_documents/child_maltreatment_academic_outcomes.pdf) with Joseph P. Ryan, Brian A. Jacob, Andrew Moore, Brian E. Perron, and Sharlyn Ferguson.  
 **Child Maltreatment** 23(4), Nov 2018.  
 
 
@@ -14,16 +14,15 @@ subtitle: Ph.D. in Economics
 
 ### Working Papers
 
-[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/max_gross_foster_care.pdf)
+[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/max_gross_foster_care.pdf) (Under Review)
 
 ##### <span style="font-weight:normal"> 6% of children in the United States enter the foster system between birth and age eighteen. Using administrative data from Michigan, I estimate the effects of foster care on children's outcomes by exploiting the quasi-random assignment of child welfare investigators. I find that foster care reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. Gains in safety and academics emerged after children exited the foster system when most were reunified with their birth parents, suggesting that improvements made by their birth parents was an important mechanism. Given recent federal legislation to reduce foster placements, these findings indicate that child welfare systems must invest in more effective interventions to keep vulnerable children safe and thriving in their homes. </span>
 
-[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) (with Silvia Robles and Robert W. Fairlie). 
-NBER Working Paper #26376.
+[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) with Silvia Robles and Robert W. Fairlie. Revise and Resubmit at the Journal of Public Economics. 
 
 ##### <span style="font-weight:normal"> One frequently cited yet understudied channel through which money matters for college students is course availability--colleges may respond to budgetary pressure by reducing course offerings. Open admissions policies, binding class size constraints, and heavy reliance on state funding may make this channel especially salient at community colleges, which enroll 47% of U.S. undergraduates in public colleges and 55% of underrepresented minority students. We use administrative course registration data from a large community college in California to test this mechanism. By exploiting discontinuities in course admissions created by waitlists, we find that students stuck on a waitlist and shut out of a course section were 25% more likely to take zero courses that term relative to a baseline of 10%. Shutouts also increased transfer rates to nearby, but potentially lower quality, two-year colleges. These results document that course availability--even through a relatively small friction--can interrupt and distort community college students' educational trajectories. </span>
 
-[**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) (with Brian A. Jacob and Kelly Lovett).
+[**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) with Brian A. Jacob and Kelly Lovett.
  * [Public Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf) 
  * Press Coverage: [CBS Detroit](https://detroit.cbslocal.com/2018/04/11/youth-in-detroit-summer-jobs-program-gain-more-than-a-paycheck/), [Crain's Detroit Business](https://www.crainsdetroit.com/article/20180411/news/657856/um-study-detroit-youth-jobs-program-shows-educational-benefits), [Michigan Radio NPR](https://www.michiganradio.org/post/detroit-youth-summer-jobs-program-boosts-graduation-rates-lowers-absences)
 
