@@ -15,6 +15,7 @@ subtitle: Ph.D. in Economics
 ### Working Papers
 
 [**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/max_gross_foster_care.pdf). Under Review.
+ * [Public Policy Brief](https://max-gross.github.io/website_documents/foster_care_childrens_wellbeing.pdf) 
 
 ##### <span style="font-weight:normal"> 6% of children in the United States enter the foster system between birth and age eighteen. Using administrative data from Michigan, I estimate the effects of foster care on children's outcomes by exploiting the quasi-random assignment of child welfare investigators. I find that foster care reduced the likelihood of being abused or neglected in the future by 50%, increased daily school attendance by 6%, and improved math test scores by 0.34 standard deviations. Gains in safety and academics emerged after children exited the foster system when most were reunified with their birth parents, suggesting that improvements made by their birth parents was an important mechanism. Given recent federal legislation to reduce foster placements, these findings indicate that child welfare systems must invest in more effective interventions to keep vulnerable children safe and thriving in their homes. </span>
 
