@@ -31,4 +31,4 @@ subtitle: Ph.D. in Economics
 
 ### Work in Progress
 
-Child Maltreatment, High School Graduation, and Adult Arrests with Brian A. Jacob and Joseph P. Ryan.
+Child Maltreatment, High School Graduation, and Adult Arrests with Brian A. Jacob, Joseph P. Ryan, and E. Jason Baron.
