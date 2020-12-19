@@ -31,6 +31,6 @@ subtitle: Ph.D. in Economics
 
 ### Work in Progress
 
-Economics of Child Protection with Joseph J. Doyle Jr and Brian A. Jacob.
+Economics of Child Protection with Joseph J. Doyle Jr. and Brian A. Jacob.
 
 Child Maltreatment, High School Graduation, and Adult Arrests with Brian A. Jacob, Joseph P. Ryan, and E. Jason Baron.
