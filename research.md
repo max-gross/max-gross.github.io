@@ -14,7 +14,7 @@ subtitle: Ph.D. in Economics
 
 ### Working Papers
 
-[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/foster_care.pdf) with E. Jason Baron. Revise and Resubmit at the **American Economic Journal: Applied Economics**. 
+[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/foster_care.pdf) with E. Jason Baron. Conditionally accepted at the **American Economic Journal: Applied Economics**. 
  * [Public Policy Brief](https://max-gross.github.io/website_documents/foster_care_childrens_wellbeing.pdf) 
 
 ##### <span style="font-weight:normal"> Six  percent  of  children  in  the  United  States  enter  foster  care  by  age  18. We estimate the effects of foster care on children’s outcomes by exploiting the quasi-random assignment of child welfare investigators in Michigan. We find that foster care improved children’s safety and educational outcomes.  Gains emerged after children exited the foster  system  when  most  were  reunified  with  their  birth  parents,  suggesting  that improvements  made  by  their  parents  was  an  important  mechanism.   These  results indicate that safely reducing the use of foster care, a goal of recent federal legislation, requires more effective in-home, prevention-focused efforts. </span>
@@ -31,6 +31,6 @@ subtitle: Ph.D. in Economics
 
 ### Work in Progress
 
-Economics of Child Protection with Joseph J. Doyle Jr. and Brian A. Jacob.
+Economics of Child Protection with Joseph J. Doyle Jr., Brian A. Jacob, and Anthony Bald.
 
 Child Maltreatment, High School Graduation, and Adult Arrests with Brian A. Jacob, Joseph P. Ryan, and E. Jason Baron.
