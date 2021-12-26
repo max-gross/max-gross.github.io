@@ -34,6 +34,6 @@ subtitle: Ph.D. in Economics
 
 ### Work in Progress
 
-Economics of Child Protection with Joseph J. Doyle Jr., Brian A. Jacob, and Anthony Bald.
+Economics of Foster Care with Joseph J. Doyle Jr., Brian A. Jacob, and Anthony Bald.
 
-Child Maltreatment, High School Graduation, and Adult Arrests with Brian A. Jacob, Joseph P. Ryan, and E. Jason Baron.
+Revisiting the Causal Effects of Child Protection on Adult Crime with E. Jason Baron.
