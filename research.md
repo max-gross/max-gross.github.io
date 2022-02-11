@@ -36,4 +36,4 @@ subtitle: Ph.D. in Economics
 
 Economics of Foster Care with Joseph J. Doyle Jr., Brian A. Jacob, and Anthony Bald.
 
-Revisiting the Causal Effects of Child Protection on Adult Crime with E. Jason Baron.
+Is There a Foster Care-To-Prison Pipeline? Evidence from Quasi-Randomly Assigned Investigators with E. Jason Baron.
