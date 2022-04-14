@@ -7,12 +7,12 @@ subtitle: Ph.D. in Economics
 ### Peer-Reviewed Publications
 
 
-[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/foster_care.pdf) with E. Jason Baron. Forthcoming at the **American Economic Journal: Applied Economics**. 
+[**Temporary Stays and Persistent Gains: The Causal Effects of Foster Care**](https://max-gross.github.io/website_documents/foster_care.pdf) with E. Jason Baron. **American Economic Journal: Applied Economics** 14(2), 2022.  
  * [Public Policy Brief](https://max-gross.github.io/website_documents/foster_care_childrens_wellbeing.pdf) 
 
 ##### <span style="font-weight:normal"> Six  percent  of  children  in  the  United  States  enter  foster  care  by  age  18. We estimate the effects of foster care on children’s outcomes by exploiting the quasi-random assignment of child welfare investigators in Michigan. We find that foster care improved children’s safety and educational outcomes.  Gains emerged after children exited the foster  system  when  most  were  reunified  with  their  birth  parents,  suggesting  that improvements  made  by  their  parents  was  an  important  mechanism.   These  results indicate that safely reducing the use of foster care, a goal of recent federal legislation, requires more effective in-home, prevention-focused efforts. </span>
 
-[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) with Silvia Robles and Robert W. Fairlie. Forthcoming at the **Journal of Public Economics**. 
+[**The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs**](https://max-gross.github.io/website_documents/course_shutouts.pdf) with Silvia Robles and Robert W. Fairlie. **Journal of Public Economics** 99, 2021.
  * [Public Policy Brief](https://max-gross.github.io/website_documents/course_closed.pdf) 
 
 
@@ -26,14 +26,17 @@ subtitle: Ph.D. in Economics
 
 ### Working Papers
 
+[**Is There A Foster Care-to-Prison Pipeline? Evidence from Quasi-Randomly Assigned Investigators**](https://max-gross.github.io/website_documents/foster_care_and_crime.pdf) with E. Jason Baron.
+ * [Executive Summary](https://max-gross.github.io/website_documents/foster_care_and_crime_summary.pdf) 
+
+##### <span style="font-weight:normal"> Foster care placement is strongly associated with crime—for example, close to one fifth of the prison population in the United States is comprised of former foster children—yet there is little evidence on whether this relationship is causal. Leveraging the quasi-random assignment of child welfare investigators and administrative data from Michigan, we show that foster care placement substantially reduced the chances of adult arrests, convictions, and incarceration for children at the margin. Exploring mechanisms, we find that foster care also improved a range of children's safety, academic, and behavioral intermediate outcomes. A likely reason for children's improvements is that their birth parents made positive changes, as most children in our setting reunified with their parents after a short stay in foster care. In light of recent historic federal policy which prioritizes keeping children with their families, our analysis indicates that safely reducing foster care caseloads will require improving efforts to ensure child wellbeing in the home. </span>
+
+[**Economics of Foster Care**](https://max-gross.github.io/website_documents/economics_of_foster_care.pdf) with Anthony Bald, Joseph J. Doyle, Jr., and Brian A. Jacob.
+
+##### <span style="font-weight:normal"> Foster care provides substitute living arrangements to protect maltreated children. The practice is remarkably common: it is estimated that 5 percent of children in the United States are placed in foster care at some point during childhood. These children exhibit poor outcomes as children and adults, and economists have begun to estimate the causal relationship between foster care and life outcomes. This paper describes tradeoffs in child welfare policy and provides background on the latest trends in foster care practice to highlight areas most in need of rigorous evidence. These trends include efforts to prevent foster care on the demand side and to improve foster home recruitment on the supply side. With increasing data availability and a growing interest in evidence-based practices, there are opportunities for economic research to inform policies that protect vulnerable children. </span>
+
 [**The Effect of Summer Employment on the Educational Attainment of Under-Resourced Youth**](https://max-gross.github.io/website_documents/detroit_summer_employment.pdf) with Brian A. Jacob and Kelly Lovett.
  * [Public Policy Brief](https://max-gross.github.io/website_documents/detroit_summer_employment_brief.pdf) 
  * Press Coverage: [CBS Detroit](https://detroit.cbslocal.com/2018/04/11/youth-in-detroit-summer-jobs-program-gain-more-than-a-paycheck/), [Crain's Detroit Business](https://www.crainsdetroit.com/article/20180411/news/657856/um-study-detroit-youth-jobs-program-shows-educational-benefits), [Michigan Radio NPR](https://www.michiganradio.org/post/detroit-youth-summer-jobs-program-boosts-graduation-rates-lowers-absences)
 
 ##### <span style="font-weight:normal"> Summer youth employment programs are a popular way for municipalities to provide adolescents with skills and experiences thought to improve labor market outcomes. While research evidence on such programs has grown in recent years, it is still limited. In particular, it is not clear how, if at all, participation influences key educational outcomes. We study the program in Detroit, Michigan using a selection on observables identification strategy. In addition to controlling for a rich set of covariates, including baseline educational measures, we match participants to their classmates of the same race and gender who applied for the program, but did not participate. We find that participation is associated with a modest increase in educational attainment. Specifically, it increased the likelihood of enrolling in public school after the program by 1.5% and of graduating high school by 4%, relative to comparison means of 94.5% and 85%. Youth with the weakest academic skills benefited the most, as participation increased school enrollment by 2.2% and high school graduation by 5.5% for this group. Falsification tests of whether participation predicts pre-program characteristics as well as bounding exercises to account for omitted variables offer support that our results represent true effects of the program and not selection. </span>
-
-### Work in Progress
-
-Economics of Foster Care with Joseph J. Doyle Jr., Brian A. Jacob, and Anthony Bald.
-
-Is There a Foster Care-To-Prison Pipeline? Evidence from Quasi-Randomly Assigned Investigators with E. Jason Baron.
