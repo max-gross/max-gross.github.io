@@ -4,7 +4,7 @@ title: Max Gross
 subtitle: Researcher
 ---
 
-### Peer-Reviewed Publications
+### Peer-Reviewed Academic Publications
 
 [**Economics of Foster Care**](https://max-gross.github.io/website_documents/economics_of_foster_care.pdf) with Anthony Bald, Joseph J. Doyle, Jr., and Brian A. Jacob. **Journal of Economic Perspectives**, forthcoming.  
 
@@ -27,7 +27,9 @@ subtitle: Researcher
 
 ##### <span style="font-weight:normal"> Early childhood trauma increases the risk of academic difficulties. The purpose of this study was to investigate the prevalence of early contact with child protection services (CPS) and to determine whether early exposure to maltreatment investigations was associated with important academic outcomes. The authors focused specifically on standardized test scores (math and reading), grade retention, and special education status in third grade. The sample was diverse and included all children born between 2000 and 2006 and enrolled in Michigan’s public schools (N = 732,838). By the time these students reached third grade, approximately 18% were associated with a formal CPS investigation. In some school districts, more than 50% of third graders were associated with an investigation. African American and poor students were more likely to be investigated for maltreatment. Children associated with maltreatment investigations scored significantly lower on standardized math and reading tests, were more likely to be identified as needing special education, and were more likely to be held back at least one grade. These findings indicate that involvement with CPS is not an infrequent event in the lives of young children and that within some school districts, maltreatment investigations are the norm. Child welfare and educational systems must collaborate so that the early academic struggles experienced by victims of maltreatment do not mature into more complicated difficulties later in life. </span>
 
-### Working Papers
+### Academic Working Papers
+
+Integrating Relationship Education into an Employment Program with Brian Goesling and Julieta Lugo-Gil. **Family Relations**, Revise and Resubmit.
 
 [**Is There A Foster Care-to-Prison Pipeline? Evidence from Quasi-Randomly Assigned Investigators**](https://max-gross.github.io/website_documents/foster_care_and_crime.pdf) with E. Jason Baron.
  * [Executive Summary](https://max-gross.github.io/website_documents/foster_care_and_crime_summary.pdf) 
