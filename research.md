@@ -6,6 +6,8 @@ subtitle: Researcher
 
 ### Peer-Reviewed Academic Publications
 
+Integrating Relationship Education into an Employment Program with Brian Goesling and Julieta Lugo-Gil. **Family Relations**, forthcoming.
+
 [**Economics of Foster Care**](https://max-gross.github.io/website_documents/economics_of_foster_care.pdf) with Anthony Bald, Joseph J. Doyle, Jr., and Brian A. Jacob. **Journal of Economic Perspectives**, forthcoming.  
 
 ##### <span style="font-weight:normal"> Foster care provides substitute living arrangements to protect maltreated children. The practice is remarkably common: it is estimated that 5 percent of children in the United States are placed in foster care at some point during childhood. These children exhibit poor outcomes as children and adults, and economists have begun to estimate the causal relationship between foster care and life outcomes. This paper describes tradeoffs in child welfare policy and provides background on the latest trends in foster care practice to highlight areas most in need of rigorous evidence. These trends include efforts to prevent foster care on the demand side and to improve foster home recruitment on the supply side. With increasing data availability and a growing interest in evidence-based practices, there are opportunities for economic research to inform policies that protect vulnerable children. </span>
@@ -29,7 +31,7 @@ subtitle: Researcher
 
 ### Academic Working Papers
 
-Integrating Relationship Education into an Employment Program with Brian Goesling and Julieta Lugo-Gil. **Family Relations**, Revise and Resubmit.
+Effects of the Nurturing Parenting Program Nurturing Skills for Families on Child Safety and Permanency with Aden Bhagwat and Russell Cole. **Child Abuse & Neglect**, Revise and resubmit.
 
 [**Is There A Foster Care-to-Prison Pipeline? Evidence from Quasi-Randomly Assigned Investigators**](https://max-gross.github.io/website_documents/foster_care_and_crime.pdf) with E. Jason Baron.
  * [Executive Summary](https://max-gross.github.io/website_documents/foster_care_and_crime_summary.pdf) 
